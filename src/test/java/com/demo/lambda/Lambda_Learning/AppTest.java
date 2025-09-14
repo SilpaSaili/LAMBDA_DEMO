@@ -17,6 +17,7 @@ public class AppTest
      */
     public AppTest( String testName )
     {
+        System.out.println("Testing CI");
         super( testName );
     }
 
